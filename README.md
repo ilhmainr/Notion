@@ -33,7 +33,7 @@ Pada penggunaan Notion dapat langsung mengunjungi website Notion di notion.so da
 
 ![alt text](https://github.com/ilhmainr/Notion/blob/main/image%20notion/n%20new%20project%201.png)
 
-*   Kemudian anda bisa memilih opsi "template" untuk memilih beberapa template project yang disediakan oleh notion. Untuk contoh, saya pilih template "To do List"
+*   Kemudian anda bisa memilih opsi "template" untuk memilih beberapa template project yang disediakan oleh notion. Untuk contoh, saya pilih template "Project & Task"
 
 ![alt text](https://github.com/ilhmainr/Notion/blob/main/image%20notion/n%20task.png)
 
