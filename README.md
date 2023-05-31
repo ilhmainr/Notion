@@ -26,27 +26,29 @@ Notion memiliki fitur integrasi yang mudah. Kamu dapat mengintegrasikannya melal
 ### 1. Daftar Notion
 Pada penggunaan Notion dapat langsung mengunjungi website Notion di notion.so dan apabila baru pertama kali menggunakan Notion serta belum memiliki akun, anda dapat membuat akun terlebih dahulu.
 
-![alt text]()
+![alt text](https://github.com/ilhmainr/Notion/blob/main/image%20notion/n%20login.png)
 
 ### 2. Membuat Project Baru
 *  Proses tahap pendaftaran sudah selesai, anda akan langsung masuk ke akun Notion anda. Untuk membuat proyek baru klik ikon "+" pada *navbar*, kemudian akan muncul halaman baru "untitled"
 
+![alt text](https://github.com/ilhmainr/Notion/blob/main/image%20notion/n%20new%20project%201.png)
+
 *   Kemudian anda bisa memilih opsi "template" untuk memilih beberapa template project yang disediakan oleh notion. Untuk contoh, saya pilih template "To do List"
 
-![alt text]()
+![alt text](https://github.com/ilhmainr/Notion/blob/main/image%20notion/n%20task.png)
 
 *   Lalu, beri nama project dan anda bisa mengatur ruang kerja proyekmu ini dengan mengisinya.
 
-![alt text]()
+![alt text](https://github.com/ilhmainr/Notion/blob/main/image%20notion/n%20task%202.png)
 
 *   Anda juga bisa bekerja bersama rekan anda dengan cara share project yaitu mengirim undangan tautan project ke email/akun notion rekan anda
 
-![alt text]()
+![alt text](https://github.com/ilhmainr/Notion/blob/main/image%20notion/n%20share.png)
 
 ## Pilihan Paket Notion
 ### 1. *Free Plan*
 
-![alt text]()
+![alt text](https://github.com/ilhmainr/Notion/blob/main/image%20notion/free%20plan.png)
 
 ### 2. *Plus Plan*
 
@@ -54,4 +56,4 @@ Pada penggunaan Notion dapat langsung mengunjungi website Notion di notion.so da
 
 ### 4. *Enterprise Plan*
 
-![alt text]()
+![alt text](https://github.com/ilhmainr/Notion/blob/main/image%20notion/another%20plan.png)
