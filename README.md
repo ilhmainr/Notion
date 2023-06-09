@@ -1,5 +1,5 @@
 # Notion-ToolManajemenProyek
-> Ilham Ainur Idhana (19081010199)
+> Ilham Ainur Idhana (19081010099)
 
 ## Tentang Notion
    Aplikasi Notion adalah aplikasi yang pada mulanya didesain untuk membuat notes atau catatan dengan tampilan yang sederhana. Namun, dalam perkembangannya, aplikasi Notion juga bisa digunakan untuk meningkatkan produktivitas kita serta mendukung adanya kolaborasi dengan pengguna lain. 
